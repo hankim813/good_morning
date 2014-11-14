@@ -1,6 +1,3 @@
-good_morning
-============
-
 ##Good Morning!
 
 An app that will play your personal music directory, tell you this week's weather for SF, and give you a personal todo list app.
