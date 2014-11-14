@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    faraday (0.9.0)
+      multipart-post (>= 1.2, < 3)
+    forecast_io (2.0.0)
+      faraday
+      hashie
+      multi_json
+    hashie (3.3.1)
+    itunes-client (0.1.7)
+    multi_json (1.10.1)
+    multipart-post (2.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  forecast_io
+  itunes-client
