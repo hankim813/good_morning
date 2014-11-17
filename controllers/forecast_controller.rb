@@ -4,7 +4,7 @@ require 'forecast_io'
 class ForecastFor
 	def self.setup
 		ForecastIO.configure do |configuration|
-			configuration.api_key = 'ef047e7dfb0a0bd12d64c092e0651140'
+			configuration.api_key = 'GET YOUR OWN'
 		end
 		@forecast = ForecastIO.forecast(37.7833, -122.4167)
 	end
